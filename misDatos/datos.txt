@@ -1,0 +1,7 @@
+altura:1.70
+edad:18
+nombre:matias
+d.n.i:46750674
+colorFavorito:rojo
+apellido:soutrelle
+paisDeNacimiento:argentina
